@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Task Management</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title">Title</string>
+    <string name="duedate">Due Date</string>
+    
+    <string-array name="priority">
+        <item>High</item>
+        <item>Medium</item>
+        <item>Low</item>
+    </string-array>
+    
+     <string-array name="searchType">
+        <item>Title</item>
+        <item>House Task</item>
+        <item>School Task</item>
+        <item>Daily Task</item>
+        <item>Other Task</item>
+        <item>Google Sync</item>
+    </string-array>
+    
+    <string-array name="group">
+        <item>House Task</item>
+        <item>School Task</item>
+        <item>Daily Task</item>
+        <item>Other Task</item>
+         <item>Google Sync</item>
+        
+    </string-array>
+    
+        <string name="priority">Priority</string>
+        <string name="group">Group</string>
+        <string name="description">Description</string>
+        <string name="save">Save</string>
+        <string name="delete">Delete</string>
+        <string name="mainTitle"></string>
+        <string name="newTask">New Task</string>
+        <string name="saveMenu">Save</string>
+        <string name="deleteMenu">Delete</string>
+        <string name="add_contact">Add Contact</string>
+        <string name="del_contact">Delete Contact</string>
+        <string name="sync">Sync</string>
+        <string name="search">search</string>
+        <string name="deleteConfirm">Are you sure?</string>
+        <string name="yesConfirm">Yes</string>
+        <string name="noConfirm">No</string>
+        <string name="notifyDEL">Task deleted!</string>
+        <string name="callConfirm">Send notification sms to all collaborators?</string>
+        <string name="sort">Sort</string>
+        <string name="byAdd">Default</string>
+        <string name="Synchronizing...">sync</string>
+        <string name="complete">Completed ?</string>
+
+</resources>

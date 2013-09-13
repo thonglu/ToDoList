@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/saveMenu" 
+        android:showAsAction="ifRoom"
+        android:title="@string/saveMenu"
+        android:icon="@android:drawable/ic_menu_save"
+        >
+ 	</item>
+    <item android:id="@+id/deleteMenu" 
+         android:showAsAction="ifRoom"
+        android:title="@string/deleteMenu"
+        android:icon="@android:drawable/ic_menu_delete"
+        >
+        </item>
+</menu>
